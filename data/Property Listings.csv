@@ -1,0 +1,11 @@
+Property Id,Property Name,Location,Price,Property Type,Features,Bedrooms,Area,Status
+10,Modern Flats,Coimbatore,2000000.00,Apartment,"Belcony,Parking,Security",3,1400,Available
+9,Family Villas,Bengaluru,11000000.00,Villa,"Belcony,Parking,Garden,Security",4,2400,Available
+8,Premium Plots,Bengaluru,10000000.00,Plot,Security,,2000,Available
+7,Budget Apartments,Kolkata,1000000.00,Apartment,Belcony,2,1000,Available
+6,Cozy Homes,Coimbatore,6000000.00,Villa,"Parking,Garden",3,1800,Available
+5,Luxury Penthouses,Bengaluru,18000000.00,Apartment,"Belcony,Parking,Swimming Pool,Gym,Security",4,2400,Available
+4,Green Valley Plots,Kolkata,5000000.00,Plot,Garden,,1200,Available
+3,City View Flats,Chennai,7500000.00,Apartment,"Belcony,Gym,Security",3,1600,Available
+2,Villa Gardens,Bengaluru,12000000.00,Villa,"Parking,Garden,Swimming Pool",4,2100,Available
+1,Sunrise Apartments,Chennai,8500000.00,Apartment,"Belcony,Parking",3,1500,Available
